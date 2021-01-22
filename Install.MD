@@ -53,3 +53,6 @@ Open 2 windows in your file browser. One window for your old copy of CheeseOS an
   cd CheeseOS_Release_21.1.21
   python3 main.py
 And your CheeseOS login should pop up! Hope you have a good time using CheeseOS 21!
+
+# Side Note
+If you don't want to run CheeseOS in terminal, or if you are getting an error running CheeseOS in terminal, then you can open the IDLE application on your desktop and open main.py with that.
